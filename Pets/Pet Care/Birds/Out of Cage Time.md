@@ -1,5 +1,4 @@
-- Separate Yahoo and Spicy if they get too close, because they love each other so much that they get into trouble. 
-- use the protected hand perch, don't let fingers get in reach. 
+- Separate Yahoo and Spicy if they get too close.
 - to get Floof & Spicy back in: using perch, at the very least get Spicy on it and in the cage. Floof will probably get on the perch but will also put herself in the cage once she sees that papaya treats are coming 
 - Floof: papaya treats 
 - Spicy: dab of mayo
