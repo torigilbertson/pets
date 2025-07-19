@@ -4,4 +4,4 @@
 	- [[Bird Feeding]]
 - [[5 Ways To Use Food As Foraging Toys]]
 
-- [Chop](Pets/chop.md)
+- [Chop](chop.md)
