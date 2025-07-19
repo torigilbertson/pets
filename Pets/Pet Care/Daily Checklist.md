@@ -1,5 +1,6 @@
+# Daily Checklist
 ## Morning 
-between 7am - 10am*
+*between 7am - 10am*
 
 - [ ] Feed birds
 - [ ] Feed cat
@@ -26,8 +27,3 @@ between 7am - 10am*
 - [ ] [[Cat Feeding]]
 - [ ] fresh water for birds
 - [ ] open windows, close curtains
-
-## Extra Info
-[[On Floof and her Biological Imperative]]
-[[Bird Behavior]]
-[[Out of Cage Time]]
