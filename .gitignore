@@ -1,5 +1,5 @@
 # .gitignore for Sunnier.Wiki Obsidian vault
 *
+!*/
+!Pets/**/*.md
 !.gitignore
-!README.md
-!/Pets
