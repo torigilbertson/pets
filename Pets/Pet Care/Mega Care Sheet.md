@@ -5,16 +5,25 @@
 | **Trip 1 (James)**   | Thursday July 24 ~9am (we will do morning care, you can start with evening) | Monday July 28  ~9pm (you will need to do evening care) |
 | **Trip 2 (Lyndsie)** | Friday Aug 8 ~9am (we will do morning care, you can start with evening)     | Tuesday Aug 12 ~9pm (you will need to do evening care)  |
 
+---
+# **Daily Checklist**
+
 ![[Daily Checklist]]
 
 ---
-# Care Details
-
+# **Cat Sitting Details**
 ![[Cat Sitting Details]]
-# Birds
+
+---
+# **Bird Sitting Details**
+# Bird Feeding
 ![[Bird Feeding]]
+
+# Out of Cage Time
 ![[Out of Cage Time]]
 
+# Understanding Bird Behavior
 ![[Bird Behavior]]
 
+# On Floof and her Biological Imperative
 ![[On Floof and her Biological Imperative]]

@@ -1,4 +1,3 @@
-# Daily Checklist
 ## Morning 
 *between 7am - 10am*
 
