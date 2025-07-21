@@ -10,6 +10,10 @@ Dump the previous meals into the compost bin (metal bin on the counter ) and put
 6 tupperware lids (extra lids are located in the pantry with all the other containers)
 6-8g chop per lid (the mix of veggies & pellets in the fridge)
 1 pinch of shredded paper
+
+Shredded paper is located in a little labeled cardboard box on the floor of the pantry.
+
+Precise Feeding: ![[Precise Feeding]]
 ### Yahoo
 Yahoo uses yogurt containers. I will prepare his food in advance and leave it in the fridge. 
 

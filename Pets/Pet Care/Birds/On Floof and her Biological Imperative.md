@@ -3,7 +3,7 @@ Floof had an emergency in 2024 when an egg got stuck in her reproductive tract. 
 ### Diet
 You may have noticed that Spicy & Floof have different meals than Yahoo's, and this is because they are on a limited calorie diet. They still get some treats, but they have to forage for it. I've set up foraging in their cage that should last them for about a week, and they sometimes choose to forage instead of eating all their veggies, and that's fine.
 
-This is also why their chop has that sprinkle of shredded paper -- to make them work a little bit to find their favorite bits.
+This is also why I weigh their chop and give it a sprinkle of shredded paper -- to make them work a little bit to find their favorite bits.
 
 ### Lighting
 The lights in the bird room are on a timer from 7:30am to 7:30pm. However, the natural daylight in summer can extend their waking hours longer than I'd like. Longer daylight can signal to their bird brains that it's baby-making time. So that's why I include opening/closing the curtains. I want them open during the day so the birds can look outside, but closed at night so that they don't wake up early.

@@ -44,3 +44,6 @@
 ---
 # Plants
 ![[Plants]]
+
+# Mail
+![[Mail]]

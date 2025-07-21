@@ -1,1 +1,1 @@
-TODO
+The only plant you'll have to worry about over a 5 day period is the little lime tree on the back patio. Fill up the watering can (above the sink) and water it every other day.

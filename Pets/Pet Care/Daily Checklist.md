@@ -14,6 +14,7 @@
 - [ ] fill bird bath fountain
 - [ ] run dishwasher
 - [ ] water tree
+- [ ] check mail
 
 **Out of Cage Time**
 - [ ] Dump Yahoo's previous foraging bowl into the tan tray outside the cages

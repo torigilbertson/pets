@@ -1,13 +1,14 @@
 ## Food
-1/2 can in the morning, 1/2 at night, store opened cans in fridge 
+½ can wet food, store opened cans in fridge 
 Top off dry food
 
 I use yogurt lids because Baloo pushes his food around. Scape off old food and put the lid in the dishwasher, and put the next canned food meal on a fresh lid. Extra lids can be found in the pantry.
 
 Wash out empty cans and put them in the recycling (any of the 3 smaller bins below the counter).
 
-Canned food is on the bottom shelf in the pantry
-Dry food is in white container on floor of pantry 
+Cycle through all 4 flavors
+Wet food located in the pantry, bottom shelf.
+Dry food located in the pantry, white bin on the floor.
 
 ## Attention 
 Baloo will probably want to sit on your lap and get pets.

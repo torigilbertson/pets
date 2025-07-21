@@ -2,10 +2,10 @@
 Like many animals, both high excitement and high fear can look the same in birds, and both excitement and fear can result in some nasty bites.
 
 Here is Yahoo getting a little too excited by the offered bath:
-https://photos.app.goo.gl/12wBCz9xFqay41AX6
+![[Danger Yahoo]]
 
 Here is Floof getting too excited for her nest:
-https://photos.app.goo.gl/19EjKj6te2KB1dGe6
+![[Nesty Floof]]
 
 Signs of Overstimulation
 - Eye pinning (pupils quickly grow and shrink)
@@ -60,4 +60,4 @@ This happens when Spicy is neglecting his duties as a loving partner. Sometimes 
 Spicy can be a little asshole and nip at Floof, especially when he's being playful. 
 
 ### Hungry 
-TODO
+Unlikely to happen since she'll be in her cage most of the time.
