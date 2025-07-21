@@ -19,11 +19,28 @@
 # Bird Feeding
 ![[Bird Feeding]]
 
+---
 # Out of Cage Time
 ![[Out of Cage Time]]
 
+---
 # Understanding Bird Behavior
 ![[Bird Behavior]]
 
+---
 # On Floof and her Biological Imperative
 ![[On Floof and her Biological Imperative]]
+
+---
+# In Emergencies
+![[In Emergencies]]
+
+---
+# **House**
+
+# How to Run the Dishwasher
+![[Dishwasher]]
+
+---
+# Plants
+![[Plants]]

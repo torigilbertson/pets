@@ -1,9 +1,20 @@
+*~1 hour per day*
+
+## Human No-Nos
+ - BE VERY CAREFUL AND SLOW WHILE OPENING AND CLOSING ANY DOORS. They are fast flyers and can quickly fly through doors. 
+ - Supervise them if Baloo is present. The birds don’t understand their own frailty and like to harass the cat.
+ - Be very careful where you step, they might be on the floor.
+
 - Separate Yahoo and Spicy if they get too close.
 - to get Floof & Spicy back in: using perch, at the very least get Spicy on it and in the cage. Floof will probably get on the perch but will also put herself in the cage once she sees that papaya treats are coming 
 - Floof: papaya treats 
 - Spicy: dab of mayo
 - Yahoo: almond, smashed 
 - Run water fountain (refresh water if it's dirty or low )
+
+## Water Fountain
+Demonstration:
+https://photos.app.goo.gl/WKQeTLA3QDWMhXdH6
 
 ## Precautions 
 - BE VERY CAREFUL AND SLOW WHILE OPENING AND CLOSING ANY DOORS WHILE BIRDS ARE OUT
@@ -15,6 +26,7 @@
 
 ### Normal Things They Do While Out
 Yahoo
+
 - he'll climb to the floor and tap your foot if he wants attention
 - he's pretty safe to pet on the head and neck. He especially loves gentle rubs on the orange feathers behind his head and the shoulder feathers.
 - open and close his cage door
@@ -47,8 +59,21 @@ Spicy
 - Stealing Yahoo's food out of his cage (fine as along as you didn't just deliver a fresh meal to his cage)
 
 ## Bird Crimes 
-- chewing baseboards, door, or door frame
-- digging in trash bin
-- trying to get into hall closet
-- Yahoo trying to attack Spicy 
-- chewing on wires (e.g. the nanny cam wires)
+
+| the crime                                                                                                  | the solution                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| chewing baseboards, door, or door frame                                                                    | Distract with the foraging tray or some wood blocks                                                                                            |
+| Yahoo trying to attack Spicy                                                                               | Use the hand perch to get between them. If they keep fighting, use whatever is nearby (cardboard, grassmat, blanket, etc) to create a barrier. |
+| chewing on wires (e.g. the nanny cam wires)                                                                | Pick up the criminal with the hand perch and place them somewhere else. They’ll likely forget about the cable.                                 |
+| Floof spending more than a minute investigating the blankets on the couch (she’s trying to dig out a nest) | Carefully remove the blanket (she might get defensive) and distract with wood blocks                                                           |
+
+## Putting Birds Back
+TODO
+Floof & Spicy will fly to the perch with a hand-guard, just be careful because Floof is fast and angry.
+
+If Yahoo is being stubborn, show him an almond. He’ll step right up, and then once you put him in his cage you can give him the almond.
+
+Once Floof & Spicy are in their cages, give them a dried papaya (pink cubes in the container below their cage).
+
+Once Yahoo is in his cage, give him an almond or a pistachio
+
