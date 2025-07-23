@@ -1,5 +1,5 @@
 - Place the bird fountain on the tall chair in the bird room, with a towel underneath,  and keep the doors closed (they were getting obsessed with nesting in the hall closet every time I opened the door to the bathroom, so their access must be limited)
 - Yahoo will have bags of forage prepared for him. Each day empty the bin in his cage into the large tan tray (so that Spicy and Floof can dig through the leftovers while they're out) and empty one of the large Ziploc bags into his bin and put it back into his cage.
 - Weighing Spicy & Floof's food. 1 forkful ~= 6-8g of chop. 
-- shredded paper on Spicy & Floof's food
+- shredded paper on Spicy & Floof's food (see video in feeding section)
 - extra pre-mixed chop in the kitchen freezer, it was starting to smell off by Day 4 so out of an abundance of caution I'll leave more in the freezer

@@ -1,3 +1,22 @@
+## General Signals
+Surfing -- he's just having a good time rubbing his face on stuff
+![[Surfing Yahoo]]
+
+"Don't steal my tasty treat" -- A warning that he doesn't want you in his space for the moment. Heed the warning.
+![[Indignant Caique]]
+
+Birdy Tough Guys -- The sounds they make when they're trying to intimidate someone 
+![[Birdy Tough Guys]]
+
+Yahoo Play Chasing -- He's having fun being a little dinosaur
+![[Play Chasing]]
+
+Happy Singing/Dancing -- Yahoo is having a good time (though he might not want to be picked up)
+![[Yahoo Singing]]
+
+Slightly Overstimulated Dancing -- Having a good time, definitely do not pick him up
+![[Overstimulated Dancing]]
+
 ## Overstimulation
 Like many animals, both high excitement and high fear can look the same in birds, and both excitement and fear can result in some nasty bites.
 
@@ -61,3 +80,8 @@ Spicy can be a little asshole and nip at Floof, especially when he's being playf
 
 ### Hungry 
 Unlikely to happen since she'll be in her cage most of the time.
+
+## Behavior You Should Hopefully Never See
+"Hormonal" Behavior
+![[Hormonal Behavior]]
+This is Floof going through birdy labor (after being induced at the vet). Coincidentally, this is is also what she looks like when she's trying to get some from Spicy, which is why he misinterprets her cues and tries to mount her.
