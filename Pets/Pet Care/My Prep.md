@@ -4,20 +4,21 @@
 - [x] pre-mixed chop in freezer 
 
 ## Foraging 
-- [x] foraging bags for Yahoo 
-- [x] roll ups with cereal, dried fruit 
-- [x] 1 honeycomb with pellets (do not fill to top, make it difficult)
-- [x] skewers: corn, pancake finger traps
+- [ ] foraging bags for Yahoo 
+- [ ] roll ups with cereal, dried fruit 
+- [ ] 1 honeycomb with pellets
+- [ ] skewers: corn, pancake finger traps
 
 ## Cage Set Up
-- [x] 5 sets popsicle sticks
-- [x] 2 skewers of wood blocks for Floof 
-- [x] 1 skewer for Yahoo 
-- [ ] clean cages
-- [x] wood blocks tied to grass mats
-- [x] finger traps with millet in bird room
-- [ ] nanny cams in good location
-- [x] sweep bird room
+- [ ] 5 sets popsicle sticks
+- [ ] 2 skewers of wood blocks for Floof 
+- [ ] 1 skewer for Yahoo 
+- [x] clean cages
+- [ ] wood blocks tied to grass mats
+- [ ] finger traps with millet in bird room
+- [x] nanny cams in good location
+- [ ] sweep bird room
+- [ ] fuck it bucket
 
 ## Other 
 - [x] take out trash
