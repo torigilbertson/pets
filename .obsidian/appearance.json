@@ -1,0 +1,8 @@
+{
+  "interfaceFontFamily": "Nunito",
+  "textFontFamily": "Nunito",
+  "enabledCssSnippets": [
+    "clean-embeds-all",
+    "clean-embeds"
+  ]
+}

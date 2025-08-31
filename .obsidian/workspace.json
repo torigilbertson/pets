@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "71559788fd0b95df",
+    "type": "split",
+    "children": [
+      {
+        "id": "a57a89f12dd709a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cebd71c46950e3f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Pets/Pet Care/Videos/Hormonal Behavior.md",
+                "bFile": "Pets/Pet Care/Videos/Hormonal Behavior.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Hormonal Behavior"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "267e5a63b3d371ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "985d1515ef9b2324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e959a3cdf6d3ec70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0c3548ca01a5ff0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "behav",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af8226bd932e965d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a41dfef410c2bdac",
+    "type": "split",
+    "children": [
+      {
+        "id": "56c275a5b3b07916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2bba7815b9bea88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pets/Pet Care/Mega Care Sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mega Care Sheet"
+            }
+          },
+          {
+            "id": "df539c4fb2096483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pets/Pet Care/Mega Care Sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mega Care Sheet"
+            }
+          },
+          {
+            "id": "9875daa392a6daf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d966384b7aff497e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pets/Pet Care/Mega Care Sheet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mega Care Sheet"
+            }
+          },
+          {
+            "id": "b0a4c036e003fe52",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "4cebd71c46950e3f",
+  "lastOpenFiles": [
+    "Pets/Pet Care/Videos/Nesty Floof.md",
+    "Pets/Pet Care/Birds/Bird Behavior.md",
+    "Untitled 1.base",
+    "Role Playing Games/Ardakan/Hyrax/Character Info.md",
+    "Pets/Pet Care/Videos/Play Chasing.md",
+    "Pets/Pet Care/Videos/Overstimulated Dancing.md",
+    "Pets/Pet Care/Videos/Precise Feeding.md",
+    "Role Playing Games/Ardakan/Hyrax/Inventory.md",
+    "Role Playing Games/Ardakan/Hyrax/Experiences/Fun Gal.md",
+    "Role Playing Games/Ardakan/Hyrax/Exeriences.md",
+    "Role Playing Games/Ardakan/2025-08-31 Notes.md",
+    "Untitled.base",
+    "Role Playing Games/Ardakan/2025-06-21 Notes.md",
+    "Role Playing Games/Ardakan/2025-06-28 Notes.md",
+    "Role Playing Games/Ardakan/2025-07-13 Notes.md",
+    "Role Playing Games/Ardakan/2025-07-20 Notes.md",
+    "Role Playing Games/Ardakan/2025-08-24 Notes.md",
+    "Role Playing Games/Ardakan/Hyrax/Experiences",
+    "Role Playing Games/Daggerheart",
+    "Role Playing Games/Untitled.md",
+    "Role Playing Games/Ardakan/Hyrax/Timeline.md",
+    "Role Playing Games/Ardakan/Hyrax/Skills.md",
+    "Pets/Pet Care/Mega Care Sheet.md",
+    "!Trauma.md",
+    "Role Playing Games/Ardakan/Hyrax",
+    "ObsidianMarkdownGuide.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Pets/Pet Care/My Prep.md",
+    "Pets/Pet Care/Daily Checklist.md",
+    "Pets/Pet Care/Daily Checklist.pdf",
+    "Pets/Pet Care/Mega Care Sheet.pdf",
+    "[Play Chasing.md",
+    "Pets/Pet Care/Videos",
+    "Pets/Pet Care/House",
+    "Pets/General"
+  ]
+}
